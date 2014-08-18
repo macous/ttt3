@@ -1,5 +1,0 @@
-http://selenium-interview-questions.blogspot.com/2014/01/how-to-launch-internet-explorer-using.html
-http://stackoverflow.com/questions/18259807/any-way-to-automate-ie-without-using-webbrowser-control
-http://stackoverflow.com/questions/20688954/selenium-ie-automation
-http://www.kunalpriyadarshi.com/2014/03/Performing-UI-Automation-Testing-using-Selenium-Web-Driver-with-C-sharp-dot-net.html
-http://www.infoq.com/articles/testing-ajax-selenium
